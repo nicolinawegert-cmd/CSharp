@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/Project2/bin/Debug/net9.0/Project2
+/Users/nicolinawegert/Documents/CSharp/Project2/bin/Debug/net9.0/Project2.deps.json
+/Users/nicolinawegert/Documents/CSharp/Project2/bin/Debug/net9.0/Project2.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/Project2/bin/Debug/net9.0/Project2.dll
+/Users/nicolinawegert/Documents/CSharp/Project2/bin/Debug/net9.0/Project2.pdb
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.dll
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/refint/Project2.dll
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.pdb
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/Project2.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/Project2/obj/Debug/net9.0/ref/Project2.dll
