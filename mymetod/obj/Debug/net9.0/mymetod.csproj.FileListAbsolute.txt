@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/mymetod/bin/Debug/net9.0/mymetod
+/Users/nicolinawegert/Documents/CSharp/mymetod/bin/Debug/net9.0/mymetod.deps.json
+/Users/nicolinawegert/Documents/CSharp/mymetod/bin/Debug/net9.0/mymetod.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/mymetod/bin/Debug/net9.0/mymetod.dll
+/Users/nicolinawegert/Documents/CSharp/mymetod/bin/Debug/net9.0/mymetod.pdb
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.dll
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/refint/mymetod.dll
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.pdb
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/mymetod.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/mymetod/obj/Debug/net9.0/ref/mymetod.dll
