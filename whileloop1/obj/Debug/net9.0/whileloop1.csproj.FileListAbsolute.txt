@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/whileloop1/bin/Debug/net9.0/whileloop1
+/Users/nicolinawegert/Documents/CSharp/Whileloop1/bin/Debug/net9.0/whileloop1.deps.json
+/Users/nicolinawegert/Documents/CSharp/Whileloop1/bin/Debug/net9.0/whileloop1.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/whileloop1/bin/Debug/net9.0/whileloop1.dll
+/Users/nicolinawegert/Documents/CSharp/whileloop1/bin/Debug/net9.0/whileloop1.pdb
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.dll
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/refint/whileloop1.dll
+/Users/nicolinawegert/Documents/CSharp/whileloop1/obj/Debug/net9.0/whileloop1.pdb
+/Users/nicolinawegert/Documents/CSharp/Whileloop1/obj/Debug/net9.0/whileloop1.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/Whileloop1/obj/Debug/net9.0/ref/whileloop1.dll

@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/foreach/bin/Debug/net9.0/foreach
+/Users/nicolinawegert/Documents/CSharp/foreach/bin/Debug/net9.0/foreach.deps.json
+/Users/nicolinawegert/Documents/CSharp/foreach/bin/Debug/net9.0/foreach.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/foreach/bin/Debug/net9.0/foreach.dll
+/Users/nicolinawegert/Documents/CSharp/foreach/bin/Debug/net9.0/foreach.pdb
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.dll
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/refint/foreach.dll
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.pdb
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/foreach.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/foreach/obj/Debug/net9.0/ref/foreach.dll

@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/forloop/bin/Debug/net9.0/forloop
+/Users/nicolinawegert/Documents/CSharp/forloop/bin/Debug/net9.0/forloop.deps.json
+/Users/nicolinawegert/Documents/CSharp/forloop/bin/Debug/net9.0/forloop.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/forloop/bin/Debug/net9.0/forloop.dll
+/Users/nicolinawegert/Documents/CSharp/forloop/bin/Debug/net9.0/forloop.pdb
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.dll
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/refint/forloop.dll
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.pdb
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/forloop.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/forloop/obj/Debug/net9.0/ref/forloop.dll

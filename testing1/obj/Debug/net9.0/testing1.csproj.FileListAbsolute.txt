@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/testing1/bin/Debug/net9.0/testing1
+/Users/nicolinawegert/Documents/CSharp/testing1/bin/Debug/net9.0/testing1.deps.json
+/Users/nicolinawegert/Documents/CSharp/testing1/bin/Debug/net9.0/testing1.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/testing1/bin/Debug/net9.0/testing1.dll
+/Users/nicolinawegert/Documents/CSharp/testing1/bin/Debug/net9.0/testing1.pdb
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.dll
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/refint/testing1.dll
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.pdb
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/testing1.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/testing1/obj/Debug/net9.0/ref/testing1.dll
