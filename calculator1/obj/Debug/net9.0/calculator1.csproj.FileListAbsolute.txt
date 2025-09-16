@@ -1,0 +1,15 @@
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.AssemblyInfoInputs.cache
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.AssemblyInfo.cs
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.csproj.CoreCompileInputs.cache
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.sourcelink.json
+/Users/nicolinawegert/Documents/CSharp/calculator1/bin/Debug/net9.0/calculator1
+/Users/nicolinawegert/Documents/CSharp/calculator1/bin/Debug/net9.0/calculator1.deps.json
+/Users/nicolinawegert/Documents/CSharp/calculator1/bin/Debug/net9.0/calculator1.runtimeconfig.json
+/Users/nicolinawegert/Documents/CSharp/calculator1/bin/Debug/net9.0/calculator1.dll
+/Users/nicolinawegert/Documents/CSharp/calculator1/bin/Debug/net9.0/calculator1.pdb
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.dll
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/refint/calculator1.dll
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.pdb
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/calculator1.genruntimeconfig.cache
+/Users/nicolinawegert/Documents/CSharp/calculator1/obj/Debug/net9.0/ref/calculator1.dll
